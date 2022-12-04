@@ -1,5 +1,7 @@
-# Pokedex-
-Projeto Pokedex feito em Vanilla para o Bootcamp da DIO
+# Pokedex
+## Projeto Pokedex feito em Vanilla para o Bootcamp da DIO - Dezembro de 2022
+
+As tecnologias usadas foram HTML5, CSS3, JavaScript puro (Vanilla).
 
 
 
